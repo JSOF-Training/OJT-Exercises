@@ -1,8 +1,8 @@
 # Instructions
 
-## Userland
+## User mode
 In this exercise you are allowed to use only open, read, write and seek system calls. In particular, functions like printf are not allowed!
-Write a **userland** program that reads from the command line:
+Write a **user mode** program that reads from the command line:
     1.	filename  - to read from or write to
     2.	r/w  - mode (read or write)
     3.	offset - offset in file 
